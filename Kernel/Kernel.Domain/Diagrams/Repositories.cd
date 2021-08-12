@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Kernel.Domain.Repositories.ISessionFactory">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Repositories\ISessionFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kernel.Domain.Repositories.ISessionRepository">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ISessionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kernel.Domain.Repositories.IQueryRepository&lt;T&gt;">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAI=</HashCode>
+      <FileName>Repositories\IQueryRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kernel.Domain.Repositories.IRepository&lt;T&gt;">
+    <Position X="6" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
