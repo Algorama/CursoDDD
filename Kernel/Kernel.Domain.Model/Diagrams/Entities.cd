@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Kernel.Domain.Model.Entities.Entity&lt;TKey&gt;">
-    <Position X="0.75" Y="1" Width="2" />
+    <Position X="0.5" Y="0.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAIAAAAAAQEgAAAAAAAAAAAAIAAAAAAAAAAAhA=</HashCode>
       <FileName>Entities\Entity.cs</FileName>
@@ -9,7 +9,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Kernel.Domain.Model.Entities.EntityKeySeq" Collapsed="true">
-    <Position X="1" Y="4.5" Width="1.5" />
+    <Position X="0.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Entities\EntityKeySeq.cs</FileName>
