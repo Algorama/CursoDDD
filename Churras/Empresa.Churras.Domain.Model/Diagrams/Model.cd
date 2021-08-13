@@ -11,22 +11,22 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="Empresa.Churras.Domain.Model.Entities.Evento">
-    <Position X="3.5" Y="0.5" Width="2" />
+    <Position X="3.25" Y="0.5" Width="2.25" />
     <AssociationLine Name="Tipo" Type="Empresa.Churras.Domain.Model.Enums.TipoEvento" FixedFromPoint="true" FixedToPoint="true">
       <Path>
-        <Point X="5.312" Y="1.925" />
-        <Point X="5.312" Y="2.844" />
-        <Point X="6.75" Y="2.844" />
+        <Point X="5.289" Y="2.954" />
+        <Point X="5.289" Y="3.094" />
+        <Point X="6.75" Y="3.094" />
       </Path>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AAAAQAACAAAAAAAgAAAAAAAAAAAAAAAAAAIAAEAAAAQ=</HashCode>
+      <HashCode>AAAAQAACAgAAAAAgAABAAAAAAAAAAAAAAAIAAEEAAAQ=</HashCode>
       <FileName>Entities\Evento.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="DonoDaCasa" />
-      <Property Name="Periodo" />
       <Property Name="Tipo" />
+      <Property Name="Periodo" />
     </ShowAsAssociation>
     <ShowAsCollectionAssociation>
       <Property Name="ColegasConfirmados" />
@@ -57,14 +57,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Empresa.Churras.Domain.Model.ValueObjects.EventoColegaConfirmado">
-    <Position X="3.25" Y="3" Width="2" />
+    <Position X="3.25" Y="3.75" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAA=</HashCode>
       <FileName>ValueObjects\EventoColegaConfirmado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Enum Name="Empresa.Churras.Domain.Model.Enums.TipoEvento">
-    <Position X="6.75" Y="2.75" Width="1.5" />
+    <Position X="6.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAQAAAAABAAAAAAAAAAAAAkAAAAAAAAAAAA=</HashCode>
       <FileName>Enums\TipoEvento.cs</FileName>
