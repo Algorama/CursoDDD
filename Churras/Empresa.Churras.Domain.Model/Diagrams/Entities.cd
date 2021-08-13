@@ -24,13 +24,6 @@
       <Property Name="ColegasConfirmados" />
     </ShowAsCollectionAssociation>
   </Class>
-  <Class Name="Empresa.Churras.Domain.Model.Entities.EventoColegaConfirmado">
-    <Position X="3.5" Y="2.75" Width="2" />
-    <TypeIdentifier>
-      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAA=</HashCode>
-      <FileName>Entities\EventoColegaConfirmado.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="Empresa.Churras.Domain.Model.ValueObjects.Periodo">
     <Position X="6.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
@@ -53,6 +46,13 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ValueObjects\Coordenadas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Empresa.Churras.Domain.Model.ValueObjects.EventoColegaConfirmado">
+    <Position X="3.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ValueObjects\EventoColegaConfirmado.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

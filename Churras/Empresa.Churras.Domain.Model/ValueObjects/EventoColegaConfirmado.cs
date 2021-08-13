@@ -1,6 +1,6 @@
 ﻿using Kernel.Domain.Model.ValueObjects;
 
-namespace Empresa.Churras.Domain.Model.Entities
+namespace Empresa.Churras.Domain.Model.ValueObjects
 {
     public class EventoColegaConfirmado : ValueObject
     {
