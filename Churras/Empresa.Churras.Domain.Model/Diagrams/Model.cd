@@ -9,6 +9,7 @@
     <ShowAsAssociation>
       <Property Name="Endereco" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Empresa.Churras.Domain.Model.Entities.Evento">
     <Position X="3.25" Y="0.5" Width="2.25" />
@@ -31,6 +32,7 @@
     <ShowAsCollectionAssociation>
       <Property Name="ColegasConfirmados" />
     </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Empresa.Churras.Domain.Model.ValueObjects.Periodo">
     <Position X="6.5" Y="0.5" Width="2.5" />
